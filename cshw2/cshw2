@@ -1,0 +1,6 @@
+1. use string when not going to modify the string, use stringbuilder when you need to modify
+2. System.Array
+3. Array.Sort()
+4. Array.Length
+5. no, System.Array only same datatype
+6. CopyTo will copy the array to another exist array, while clone will create a new one
