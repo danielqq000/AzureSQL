@@ -1,0 +1,10 @@
+1. throws DivideByZeroException
+2. double.PositiveInfinity or double.NegativeInfinity
+3. OverflowException
+4. x=y++ makes x = original y, where x = ++y makes x = y+1
+5. break leaves the loop, continue skips current iteration and go to next one, return exit the function.
+6. initialization, condition, iteration
+7. = is assign, == is equal operator
+8. yes, infinite loop
+9. default case
+10. IEnumerable

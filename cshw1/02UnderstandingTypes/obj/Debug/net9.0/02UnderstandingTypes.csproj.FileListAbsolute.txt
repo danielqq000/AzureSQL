@@ -1,0 +1,15 @@
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.deps.json
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.runtimeconfig.json
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.dll
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.pdb
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfo.cs
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.sourcelink.json
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.dll
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/refint/02UnderstandingTypes.dll
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.pdb
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.genruntimeconfig.cache
+/home/danielqq000/azure/AzureSQL/02UnderstandingTypes/obj/Debug/net9.0/ref/02UnderstandingTypes.dll

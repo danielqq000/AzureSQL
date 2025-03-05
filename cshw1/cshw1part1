@@ -1,0 +1,3 @@
+1. uint/string, float, uint, class/string, uint, uint/string, float, float, ulong, ulong, ulong
+2. value type pass by value, create a new one; reference type pass by reference, using the same one. Boxing is convert value type into object type, make it reference; Unboxing vice versa.
+
