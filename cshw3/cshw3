@@ -1,0 +1,30 @@
+1.
+    public: access from anywhere
+    private: access only in class
+    protected: access only from current and derived class
+    internal: access in same assembly
+    protected internal: access in same assembly and derived class
+    private protected: access in same class and same assembly
+2. static belong to class not instance, const initialize at declaration and can't change, readonly can initialize at runtime and can't change.
+3. initialize objects when created, usually setting values.
+4. partial helps splitting objects in multiple files.
+5. tuple is like struct holding multiple types value.
+6. record defines reference type for data storage.
+7. overloading has different parameters, overriding use same parameters but differnt implementation.
+8. field is variables in a class, property is get or set towards field.
+9. provide a default value
+10. interface has no implementation, while abstract can have both abstract and concrete methods.
+11. always public.
+12. True
+13. True
+14. True
+15. False
+16. True
+17. True
+18. True
+19. False
+20. False
+21. True
+22. False
+23. True
+
